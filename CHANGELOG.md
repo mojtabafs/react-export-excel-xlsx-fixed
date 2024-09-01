@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.5.5"></a>
+## 0.5.5 (2024-09-01)
+
+
+
 <a name="0.5.4"></a>
 ## [0.5.4](https://github.com/rdcalle/react-export-excel/compare/v0.5.1...v0.5.4) (2024-09-01)
 
