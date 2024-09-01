@@ -1,5 +1,5 @@
 {
-  "name": "react-export-excel-xlsx-fix",
+  "name": "react-export-excel-fixed",
   "version": "0.5.5",
   "main": "dist/index.js",
   "description": "A tool to export dataset from react to excel format.",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "react-export-excel",
-    "react-export-excel-xlsx-fix",
+    "react-export-excel-fixed",
     "react-data-export",
     "react-dataset",
     "react-export",

@@ -1,4 +1,4 @@
-# React-Export-Excel-Xlsx-Fixed
+# react-export-excel-fixed
 
 A package based on [React-Export-Excel](https://www.npmjs.com/package/react-export-excel).
 
@@ -7,13 +7,13 @@ A package based on [React-Export-Excel](https://www.npmjs.com/package/react-expo
 With [yarn](https://yarnpkg.com/en/):
 
 ```sh
-yarn add react-export-excel-xlsx-fix
+yarn add react-export-excel-fixed
 ```
 
 With [npm](https://www.npmjs.org/package/react-export-excel):
 
 ```sh
-npm install react-export-excel-xlsx-fix --save
+npm install react-export-excel-fixed --save
 ```
 
 ## Code Examples
