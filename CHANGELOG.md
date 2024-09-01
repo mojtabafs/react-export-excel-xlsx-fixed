@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.5.6"></a>
+## [0.5.6](https://github.com/mojtabafs/react-export-excel-xlsx-fixed/compare/v0.5.5...v0.5.6) (2024-09-01)
+
+
+
 <a name="0.5.5"></a>
 ## 0.5.5 (2024-09-01)
 
