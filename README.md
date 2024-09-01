@@ -7,13 +7,13 @@ A package based on [React-Export-Excel](https://www.npmjs.com/package/react-expo
 With [yarn](https://yarnpkg.com/en/):
 
 ```sh
-yarn add react-export-excel-xlsx-fixed
+yarn add react-export-excel-xlsx-fix
 ```
 
 With [npm](https://www.npmjs.org/package/react-export-excel):
 
 ```sh
-npm install react-export-excel-xlsx-fixed --save
+npm install react-export-excel-xlsx-fix --save
 ```
 
 ## Code Examples

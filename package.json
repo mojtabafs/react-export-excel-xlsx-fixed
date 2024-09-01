@@ -5,7 +5,7 @@
   "description": "A tool to export dataset from react to excel format.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mojtabafs/react-export-excel-xlsx-fixed"
+    "url": "git+https://github.com/mojtabafs/react-export-excel-xlsx-fixed.git"
   },
   "keywords": [
     "react-export-excel",
@@ -73,5 +73,9 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
   }
 }
