@@ -159,7 +159,7 @@ class ExcelFile extends React.Component {
     }
 
     render() {
-        const { hideElement, elemen } = this.props;
+        const { hideElement, element } = this.props;
 
         if (hideElement) {
             return null;
