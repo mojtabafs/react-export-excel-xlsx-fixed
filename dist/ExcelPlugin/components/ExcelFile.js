@@ -152,7 +152,7 @@ var ExcelFile = function (_React$Component) {
         value: function render() {
             var _props = this.props,
                 hideElement = _props.hideElement,
-                elemen = _props.elemen;
+                element = _props.element;
 
 
             if (hideElement) {
