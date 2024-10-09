@@ -111,7 +111,10 @@ class ExcelFile extends React.Component {
         });
 
         if (this.props.onElementClicked) {
-            this.props.onElementClicked(new Blob([strToArrBuffer(wbout)]));
+            this.props.onElementClicked(new Blob([strToArrBuffer(wbout)], {
+                type:
+                    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+            }));
         } else {
             saveAs(
                 new Blob([strToArrBuffer(wbout)], {
