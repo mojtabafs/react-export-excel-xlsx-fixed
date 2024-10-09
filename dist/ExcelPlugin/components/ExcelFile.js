@@ -108,7 +108,9 @@ var ExcelFile = function (_React$Component) {
             });
 
             if (this.props.onElementClicked) {
-                this.props.onElementClicked(new Blob([(0, _DataUtil.strToArrBuffer)(wbout)]));
+                this.props.onElementClicked(new Blob([(0, _DataUtil.strToArrBuffer)(wbout)], {
+                    type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }));
             } else {
                 (0, _fileSaver.saveAs)(new Blob([(0, _DataUtil.strToArrBuffer)(wbout)], {
                     type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
